@@ -1,0 +1,1 @@
+"Eternal vigilance is the price of liberty." -- Wendell Phillips, (1811-1884)
