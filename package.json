@@ -1,6 +1,10 @@
 {
   "name": "eternal-vigilance",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "\"Eternal vigilance is the price of liberty.\" -- Wendell Phillips, (1811-1884)",
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/kumavis/eternal-vigilance.git"
+  },
   "main": "README.md"
 }
